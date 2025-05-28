@@ -23,6 +23,8 @@
     "@backstage/core-plugin-api": "^1.10.7",
     "@backstage/integration-react": "^1.2.7",
     "@backstage/plugin-api-docs": "^0.12.7",
+    "@backstage/plugin-auth-backend": "^0.25.0",
+    "@backstage/plugin-auth-node": "^0.6.3",
     "@backstage/plugin-catalog": "^1.30.0",
     "@backstage/plugin-catalog-common": "^1.1.4",
     "@backstage/plugin-catalog-graph": "^0.4.19",
